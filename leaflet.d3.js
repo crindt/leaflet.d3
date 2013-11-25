@@ -1,3 +1,5 @@
+var d3=require('d3')
+
 //very much based off of http://bost.ocks.org/mike/leaflet/
 L.D3 = L.Class.extend({
 	includes: L.Mixin.Events,

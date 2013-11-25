@@ -5,6 +5,7 @@
   "version": "0.0.1",
   "keywords": [],
   "dependencies": {
+    "mbostock/d3": "*",
     "crindt/leaflet-component": "*"
   },
   "development": {},
