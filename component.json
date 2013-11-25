@@ -1,0 +1,17 @@
+{
+  "name": "leaflet.d3",
+  "repo": "crindt/leaflet.d3",
+  "description": "D3 plugin for leaflet, wrapped for componentjs",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "crindt/leaflet-component": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "leaflet.d3.js",
+    "index.js"
+  ]
+}
